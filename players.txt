@@ -1,0 +1,15 @@
+Garcia;Marc;22-06;5;Bola de arroz
+Perez;Jordi;14-03;2;Torta de frambuesas
+Diaz;Martina;02-02;3;Carne de ave asada
+Martin;Laia;01-11;4;Manzanas a la miel
+Alamo;Eduard;29-04;1;Estofado de monstruo
+Martinez;Alba;02-10;6;Pastel de calabaza
+Cuesta;Luz;30-12;7;Flan de huevo
+Gomez;Aureli;15-07;3;Salteado de montaña
+Martin;Darlene;07-11;4;Bola de arroz
+Barriga;Dolores;19-06;3;Carne glaseada
+Marzo;Daniel;14-05;3;Comida sospechosa
+Garcia;Biel;19-10;8;Bola de arroz
+Serra;Hector;22-06;2;Arroz especiado con pollo XL
+Jimenez;Manu;11-09;2;Estofado de monstruo
+Garcia;Xavier;23-08;1;Salteado de montaña

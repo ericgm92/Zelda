@@ -1,0 +1,146 @@
+<ZeldaBreathOfTheWild>
+	<Bokoblin>
+		<weapon>Boko Club</weapon>
+		<shield>true</shield>
+		<color>red</color>
+		<HP>300</HP>
+		<avgDamage>20.5</avgDamage>
+		<desc>Bokoblins are often encountered in primitive encampments. They can be found resting inside their camps at night and hunting Boars, if they are present, during the day. 
+		Bokoblin encampments are usually guarded by a Bokoblin on a small watchtower. If this Bokoblin spots Link, it will sound its horn, alerting the other Bokoblins of Link's presence.
+		There are four known colors of Bokoblins: the standard red variety, the significantly stronger blue variety, the elite black variety, and the incredibly rare silver variety.</desc>	
+		<drop qty="3">Boko Club,Bokoblin Horn,Bokoblin Fang</drop>
+	</Bokoblin>
+	<Chuchu>
+		<color>blue</color>
+		<HP>150</HP>
+		<avgDamage min="18" max="23">20</avgDamage>
+		<desc>They are gelatinous creatures of living slime or jelly, often depicted with facial features. Chuchus come in a wide variety of colors and types, 
+		with some having different traits and behaviors depending on their color.</desc>
+	</Chuchu>
+	<Bokoblin>
+		<weapon>Boko Bow</weapon>
+		<shield>false</shield>
+		<color>red</color>
+		<HP>270</HP>
+		<avgDamage>12.5</avgDamage>
+		<desc>Bokoblins are often encountered in primitive encampments. They can be found resting inside their camps at night and hunting Boars, if they are present, during the day. 
+		Bokoblin encampments are usually guarded by a Bokoblin on a small watchtower. If this Bokoblin spots Link, it will sound its horn, alerting the other Bokoblins of Link's presence.
+		There are four known colors of Bokoblins: the standard red variety, the significantly stronger blue variety, the elite black variety, and the incredibly rare silver variety.</desc>	
+		<drop qty="1">Boko Bow</drop>
+	</Bokoblin>
+	<Bokoblin>
+		<weapon>Dragon Bone Boko Bow</weapon>
+		<shield>true</shield>
+		<color>blue</color>
+		<HP>370</HP>
+		<avgDamage>18</avgDamage>
+		<desc>Bokoblins are often encountered in primitive encampments. They can be found resting inside their camps at night and hunting Boars, if they are present, during the day. 
+		Bokoblin encampments are usually guarded by a Bokoblin on a small watchtower. If this Bokoblin spots Link, it will sound its horn, alerting the other Bokoblins of Link's presence.
+		There are four known colors of Bokoblins: the standard red variety, the significantly stronger blue variety, the elite black variety, and the incredibly rare silver variety.</desc>	
+		<drop qty="1">Bokoblin Horn</drop>
+	</Bokoblin>
+	<Chuchu>
+		<color>red</color>
+		<HP>260</HP>
+		<avgDamage min="27" max="42">36</avgDamage>
+		<desc>They are gelatinous creatures of living slime or jelly, often depicted with facial features. Chuchus come in a wide variety of colors and types, 
+		with some having different traits and behaviors depending on their color.</desc>
+	</Chuchu>
+	<Bokoblin>
+		<weapon>Boko Club</weapon>
+		<shield>false</shield>
+		<color>red</color>
+		<HP>300</HP>
+		<avgDamage>20.5</avgDamage>
+		<desc>Bokoblins are often encountered in primitive encampments. They can be found resting inside their camps at night and hunting Boars, if they are present, during the day. 
+		Bokoblin encampments are usually guarded by a Bokoblin on a small watchtower. If this Bokoblin spots Link, it will sound its horn, alerting the other Bokoblins of Link's presence.
+		There are four known colors of Bokoblins: the standard red variety, the significantly stronger blue variety, the elite black variety, and the incredibly rare silver variety.</desc>	
+		<drop qty="2">Bokoblin Horn,Bokoblin Fang</drop>
+	</Bokoblin>
+	<Bokoblin>
+		<weapon>Soldier's Broadsword</weapon>
+		<shield>false</shield>
+		<color>blue</color>
+		<HP>600</HP>
+		<avgDamage>42.5</avgDamage>
+		<desc>Bokoblins are often encountered in primitive encampments. They can be found resting inside their camps at night and hunting Boars, if they are present, during the day. 
+		Bokoblin encampments are usually guarded by a Bokoblin on a small watchtower. If this Bokoblin spots Link, it will sound its horn, alerting the other Bokoblins of Link's presence.
+		There are four known colors of Bokoblins: the standard red variety, the significantly stronger blue variety, the elite black variety, and the incredibly rare silver variety.</desc>	
+		<drop qty="2">Soldier's Broadsword,Bokoblin Fang</drop>
+	</Bokoblin>
+	<Chuchu>
+		<color>blue</color>
+		<HP>150</HP>
+		<avgDamage min="26" max="33">30</avgDamage>
+		<desc>They are gelatinous creatures of living slime or jelly, often depicted with facial features. Chuchus come in a wide variety of colors and types, 
+		with some having different traits and behaviors depending on their color.</desc>
+	</Chuchu>
+	<Octorok>
+		<type>W</type>
+		<color>blue</color>
+		<HP>240</HP>
+		<avgDamage>35</avgDamage>	
+		<desc>They are octopus-like monsters best known for their method of attack; shooting rock projectiles from their cylindrical snouts in short intervals, hence their name. 
+		They are typically common to the overworld, such as Hyrule, but occasionally also appear inside dungeons.</desc>
+	</Octorok>
+	<Chuchu>
+		<color>green</color>
+		<HP>325</HP>
+		<avgDamage min="31" max="35">33.3</avgDamage>
+		<desc>They are gelatinous creatures of living slime or jelly, often depicted with facial features. Chuchus come in a wide variety of colors and types, 
+		with some having different traits and behaviors depending on their color.</desc>
+	</Chuchu>
+	<Bokoblin>
+		<weapon>Soldier's Broadsword</weapon>
+		<shield>true</shield>
+		<color>blue</color>
+		<shield>true</shield>
+		<HP>500</HP>
+		<avgDamage>38.5</avgDamage>
+		<desc>Bokoblins are often encountered in primitive encampments. They can be found resting inside their camps at night and hunting Boars, if they are present, during the day. 
+		Bokoblin encampments are usually guarded by a Bokoblin on a small watchtower. If this Bokoblin spots Link, it will sound its horn, alerting the other Bokoblins of Link's presence.
+		There are four known colors of Bokoblins: the standard red variety, the significantly stronger blue variety, the elite black variety, and the incredibly rare silver variety.</desc>	
+		<drop qty="1">Soldier's Broadsword</drop>
+	</Bokoblin>
+	<Chuchu>
+		<color>blue</color>
+		<HP>150</HP>
+		<avgDamage min="19" max="24">20</avgDamage>
+		<desc>They are gelatinous creatures of living slime or jelly, often depicted with facial features. Chuchus come in a wide variety of colors and types, 
+		with some having different traits and behaviors depending on their color.</desc>
+	</Chuchu>
+	<Octorok>
+		<type>G</type>
+		<color>green</color>
+		<HP>220</HP>
+		<avgDamage>31.5</avgDamage>
+		<desc>They are octopus-like monsters best known for their method of attack; shooting rock projectiles from their cylindrical snouts in short intervals, hence their name. 
+		They are typically common to the overworld, such as Hyrule, but occasionally also appear inside dungeons.</desc>
+	</Octorok>
+	<Chuchu>
+		<color>blue</color>
+		<HP>210</HP>
+		<avgDamage min="16" max="26">22.7</avgDamage>
+		<desc>They are gelatinous creatures of living slime or jelly, often depicted with facial features. Chuchus come in a wide variety of colors and types, 
+		with some having different traits and behaviors depending on their color.</desc>
+	</Chuchu>
+	<Bokoblin>
+		<weapon>Boko Bow</weapon>
+		<shield>false</shield>
+		<color>red</color>
+		<HP>300</HP>
+		<avgDamage>27.5</avgDamage>
+		<desc>Bokoblins are often encountered in primitive encampments. They can be found resting inside their camps at night and hunting Boars, if they are present, during the day. 
+		Bokoblin encampments are usually guarded by a Bokoblin on a small watchtower. If this Bokoblin spots Link, it will sound its horn, alerting the other Bokoblins of Link's presence.
+		There are four known colors of Bokoblins: the standard red variety, the significantly stronger blue variety, the elite black variety, and the incredibly rare silver variety.</desc>	
+		<drop qty="3">Boko Bow,Bokoblin Horn,Bokoblin Fang</drop>
+	</Bokoblin>
+	<Octorok>
+		<type>G</type>
+		<color>green</color>
+		<HP>180</HP>
+		<avgDamage>27.5</avgDamage>
+		<desc>They are octopus-like monsters best known for their method of attack; shooting rock projectiles from their cylindrical snouts in short intervals, hence their name. 
+		They are typically common to the overworld, such as Hyrule, but occasionally also appear inside dungeons.</desc>
+	</Octorok>
+</ZeldaBreathOfTheWild>
